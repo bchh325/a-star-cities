@@ -4,8 +4,8 @@ Implementation of A* Algorithm to determine which is the shortest path in terms 
 Uses straight line distance from cities as a heuristic to determine the next best fit city to expand.
 
 Running the algorithm:
->>py a-star.py (city1) (city2) #city names are case sensitive
+>py a-star.py (city1) (city2) #city names are case sensitive
 
 ex. 
 
->>py a-star.py SanDiego SanFrancisco
+>py a-star.py SanDiego SanFrancisco
