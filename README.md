@@ -6,4 +6,6 @@ Uses straight line distance from cities as a heuristic to determine the next bes
 Running the algorithm:
 >>py a-star.py (city1) (city2) #city names are case sensitive
 
-ex. >>py a-star.py SanDiego SanFrancisco
+ex. 
+
+>>py a-star.py SanDiego SanFrancisco
